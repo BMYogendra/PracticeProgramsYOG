@@ -1,0 +1,6 @@
+This is a text file
+I want to commit a change here
+
+This is a second commit
+
+Hello World!
